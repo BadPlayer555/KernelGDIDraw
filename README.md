@@ -20,7 +20,7 @@ Adding new GDI function to this project is quite easy. Just go to reactos to sea
 Alternatively, you can open win32kbase, win32k, win32kfull in IDA and search for the exported symbols and create the typedef. 
 
 # Credits
-Vmcall - Structs, typedef, reference and gdi functions. (https://github.com/vmcall/dxgkrnl_hook)  
+vmcall - Structs, typedef, reference and gdi functions. (https://github.com/vmcall/dxgkrnl_hook)  
          The main idea is originated from his repository: dxgkrnl_hook. I couldn't get his project to work so I created my won.  
 everdox - Infinity hook (https://github.com/everdox/InfinityHook)  
 Reactos - Structs, typedef, reference and gdi functions  
